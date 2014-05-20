@@ -1,8 +1,11 @@
 ---
 layout: post
-title: "Hello World"
+title: "Welcome"
 description: ""
 category: 
 tags: []
 ---
+
+Well this is my first post for my github blog. Thanks
+
 {% include JB/setup %}
